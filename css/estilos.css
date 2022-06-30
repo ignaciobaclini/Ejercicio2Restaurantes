@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(40, 150, 136)
+}
+.titulo1 {
+    color: rgb(252, 234, 62);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.imagen-borde {
+    border: 10px solid rgb(251, 251, 251);
+    margin-left: 10px;
+    margin-bottom: 10px;
+    height: 150px;
+}
+
+.imagen-borde2 {
+    border: 10px solid rgb(251, 251, 251);
+    margin-left: 10px;
+    margin-bottom: 10px;
+    height: 150px;
+    margin-left: 200px;
+    
+    
+
+}
